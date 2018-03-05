@@ -1,7 +1,7 @@
-package com.example.bparser;
+package backend.bparser;
 
-import com.example.bparser.model.ContestantData;
-import com.example.bparser.service.ApiService;
+import backend.bparser.model.ContestantData;
+import backend.bparser.service.ApiService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

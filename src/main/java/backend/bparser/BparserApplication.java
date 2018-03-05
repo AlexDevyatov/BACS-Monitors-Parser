@@ -1,4 +1,4 @@
-package com.example.bparser;
+package backend.bparser;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.example.bparser.model;
+package backend.bparser.model;
 
 public class ContestantData implements Comparable<ContestantData>{
 

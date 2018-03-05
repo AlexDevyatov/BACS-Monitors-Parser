@@ -1,6 +1,6 @@
-package com.example.bparser.service;
+package backend.bparser.service;
 
-import com.example.bparser.model.ContestantData;
+import backend.bparser.model.ContestantData;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;

@@ -1,7 +1,7 @@
-package com.example.bparser.controller;
+package backend.bparser.controller;
 
-import com.example.bparser.model.ContestantData;
-import com.example.bparser.service.ApiService;
+import backend.bparser.model.ContestantData;
+import backend.bparser.service.ApiService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
